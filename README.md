@@ -15,6 +15,8 @@ read the file
 run the python code and add the output
 ## PROGRAM:
 ```
+REGISTER NO:22009120
+NAME:S.IYYANAR
 with open("word.txt",'r') as t:
     count=0
     r=t.read()
